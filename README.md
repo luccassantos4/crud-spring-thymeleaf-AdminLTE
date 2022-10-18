@@ -1,6 +1,6 @@
 # crud-spring-thymeleaf-AdminLTE
 
-<b>Ultilização:</b>
+<b>Utilização:</b>
 
 Mysql ✓ <br>
 Spring Boot ✓ <br>
