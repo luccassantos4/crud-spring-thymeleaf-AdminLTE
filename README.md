@@ -1,16 +1,18 @@
 # crud-spring-thymeleaf-AdminLTE
 
-<b>Utilização:</b>
+<h3>Criação do Crud:</h3>
 
-Mysql ✓ <br>
-Spring Boot ✓ <br>
-Java ✓ <br>
-Relacionamento: Categoria [1.*]  [1]Produtos ✓ <br>
-Thymeleaf + bootstrap ✓ <br>
-Layout AdminLTE ✓ <br>
-CRUD Categorias ✓ <br>
-CRUD Produtos ✓ <br>
-
+<ul>
+<li>Mysql </li>
+<li>Spring Boot</li>
+<li>Java </li>
+<li>Relacionamento: Categoria [1.*]  [1]Produtos</li>
+<li>Thymeleaf + bootstrap</li>
+<li>Layout AdminLTE </li>
+<li>CRUD Categorias </li>
+<li>CRUD Produtos </li>
+</ul>
+  
 <div align="center">
   <h4>Página Inicial</h4>
 <img src="https://user-images.githubusercontent.com/62127980/196528275-2fdbc318-0019-4dc6-9dae-d01510f742e7.jpg">
